@@ -1,0 +1,2 @@
+# TECHNOHACKS-SOLUTIONS---DATA-SCIENCE---FRAUD-TRANSACTION-DETECTION-PROJECT
+This project implements a fraud transaction detection system using machine learning. The dataset is preprocessed and scaled, followed by handling class imbalance with SMOTE. A Random Forest classifier is trained and evaluated with various metrics, including ROC and Precision-Recall curves, alongside feature importance visualization.
